@@ -10,7 +10,7 @@ This Website made with React, Bootstrap, JavaScript, HTML & CSS
 
 This website is made for SkillsAcademy to showcase their Courses Online.
 
-### `npm test`
+### `Courtesy`
 
 Information that used in this Project are collected From 10 Minute School & google. Please contact us for more Information.
 
