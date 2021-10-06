@@ -1,0 +1,12 @@
+.coursesDiv1{
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 50px;
+}
+.coursesH1{
+    margin: 30px 0 30px 0;
+}
+.saTag1{
+    color: rgb(243, 63, 63);
+}
